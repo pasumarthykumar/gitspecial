@@ -1,0 +1,2 @@
+This is first line in a.txt
+Hello This is new line added
